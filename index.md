@@ -7,3 +7,7 @@
 ```python
 print("It feels great writing in python")
 ```
+
+- [x] Take the Microsoft learn challenge course
+- [ ] Learn how to code
+- [ ] Exercise
